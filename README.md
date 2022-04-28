@@ -10,7 +10,7 @@
 ![movies-list](https://raw.githubusercontent.com/tavareshenrique/ignite-reactjs/a11afefe824866f24dd3f9e1cc6e6e9530376ad1/%40assets/img/logo.svg)
 
 
-> Movies-List é uma aplicação de listagem de filmes a partir do gênero utilizando de uma Fake API. Exemplo prático do desafio sobre Componentização das aulas de Fundamentos de ReactJS da Rocketseat Ignite.
+> Movies-List é uma aplicação de listagem de filmes a partir do gênero utilizando de uma Fake API. Desafio sobre Componentização das aulas de Fundamentos de ReactJS da Rocketseat Ignite.
 
 ### ❤️ Ajustes e melhorias
 
